@@ -1,4 +1,6 @@
-package Package3;
+package oleksiy.Package3;
+
+import oleksiy.WordOccurrence;
 
 import java.util.List;
 import java.util.Map;
@@ -21,12 +23,3 @@ public class StringUtil {
     }
 }
 
-class WordOccurrence {
-    String name;
-    int occurrence;
-
-    public WordOccurrence(String name, int occurrence) {
-        this.name = name;
-        this.occurrence = occurrence;
-    }
-}

@@ -1,4 +1,4 @@
-package Package1;
+package oleksiy.Package1;
 import java.util.List;
 
 public class StringUtil {

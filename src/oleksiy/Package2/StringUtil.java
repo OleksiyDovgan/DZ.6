@@ -1,4 +1,4 @@
-package Package2;
+package oleksiy.Package2;
 
 import java.util.List;
 import java.util.Map;

@@ -1,3 +1,5 @@
+package oleksiy;
+
 public class Record {
     private String name;
     private String phoneNumber;
